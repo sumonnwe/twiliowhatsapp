@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\DEV_TEST\whatsapp_webhook\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-04-24T06:19:25.2599757Z||;True|2025-04-24T14:12:36.2366628+08:00||;True|2025-04-21T17:48:45.9193102+08:00||;True|2025-04-21T17:48:08.3243355+08:00||;True|2025-04-21T17:47:46.8196896+08:00||;True|2025-04-21T17:08:23.5269498+08:00||;True|2025-04-21T17:05:29.7825692+08:00||;True|2025-04-21T16:26:42.5249273+08:00||;True|2025-04-21T16:13:41.5542109+08:00||;True|2025-04-21T14:38:09.7603199+08:00||;True|2025-04-21T14:06:48.7046943+08:00||;True|2025-04-21T11:30:32.0290632+08:00||;True|2025-04-21T11:17:17.4303912+08:00||;True|2025-04-17T15:03:03.1655944+08:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

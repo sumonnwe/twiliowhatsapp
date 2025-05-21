@@ -1,0 +1,6 @@
+@whatsapp_webhook_HostAddress = https://localhost:8080
+
+POST {{whatsapp_webhook_HostAddress}}/api/webhook/
+Accept: application/json
+
+###
